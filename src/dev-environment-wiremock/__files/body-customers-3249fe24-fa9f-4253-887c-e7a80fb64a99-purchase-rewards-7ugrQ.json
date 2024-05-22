@@ -1,0 +1,7 @@
+{
+  "getsDiscountForThisPurchase": true,
+  "getsDiscountForNextPurchase": false,
+  "discountPercentageForNextPurchase": 0,
+  "discountPercentage": 0.12,
+  "discountAmount": 0
+}
